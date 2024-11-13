@@ -1,0 +1,54 @@
+{
+"Formulario FATCA/CRS":[
+	{
+		"Nombre Completo de la Persona Controladora": "victoria",
+		"Dirección actual de Residencia": "dirección 1",
+    	"País": "Uruguay",
+    	"Provincia": "Montevideo",
+        "Ciudad": "Montevideo",
+		"N° de Casa": "uno",
+		"Apartamento": "dos",
+    	"Calle": "dirección 1",
+    	"Avenida": "av italia",
+        "Código Postal": "1000",
+		"Dirección Postal": "dirección",
+    	"Fecha de Nacimiento": "2024/07/11",
+    	"Ciudad de Nacimiento": "montevideo",
+        "País de Nacimiento": "uruguay"
+		},
+
+    {
+		"Nombre Completo de la Persona Controladora": "uno",
+		"Dirección actual de Residencia": "dos",
+    	"País": "tres",
+    	"Provincia": "cuatro",
+        "Ciudad": "cinco",
+		"N° de Casa": "uno",
+		"Apartamento": "dos",
+    	"Calle": "tres",
+    	"Avenida": "cuatro",
+        "Código Postal": "cinco",
+		"Dirección Postal": "dos",
+    	"Fecha de Nacimiento": "2024/11/07",
+    	"Ciudad de Nacimiento": "cuatro",
+        "País de Nacimiento": "cinco"
+		},
+		{
+		"Nombre Completo de la Persona Controladora": "uno",
+		"Dirección actual de Residencia": "dos",
+    	"País": "tres",
+    	"Provincia": "cuatro",
+        "Ciudad": "cinco",
+		"N° de Casa": "uno",
+		"Apartamento": "dos",
+    	"Calle": "tres",
+    	"Avenida": "cuatro",
+        "Código Postal": "cinco",
+		"Dirección Postal": "dos",
+    	"Fecha de Nacimiento": "2025/11/07",
+    	"Ciudad de Nacimiento": "cuatro",
+        "País de Nacimiento": "cinco"
+		}
+	
+	]
+}
